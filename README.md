@@ -48,7 +48,7 @@ Zoom into the **API Container** and identify **all the major components**:
   - Provides role-based access control (e.g. potters can access analytics, customers cannot).
 
 - **Controllers**
-  - Entry points for handling requests (`/potters`, `/orders`, `/login`, `/analytics`).
+  - Entry points for handling requests, i.e. (`/potters`, `/orders`, `/login`, `/analytics`).
 
 - **Components**
   - Components which attatch onto external systems such as payments and the email system.
